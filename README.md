@@ -1,2 +1,2 @@
 # test-auto-merge
-changes
+stages changes
